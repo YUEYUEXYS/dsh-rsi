@@ -1,0 +1,6 @@
+node_modules/
+.loaded
+*.tmp-*
+tools/*.txt
+tools/*.out.txt
+tools/*.err.txt
