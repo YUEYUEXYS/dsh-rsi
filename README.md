@@ -219,7 +219,7 @@ EVIDENCE.md        真实运行记录与边界
 README.md          本文档
 LAUNCH.md          发布页与演示脚本
 CHANGELOG.md       版本记录
-assets/            品牌横幅、真实设置页截图
+assets/            品牌横幅
 ```
 
 ## 许可证
