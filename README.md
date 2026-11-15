@@ -2,11 +2,6 @@
 
 <p align="center"><img src="./assets/banner.svg" alt="DSH RSI" width="100%"></p>
 
-<p align="center">
-  <a href="https://github.com/YUEYUEXYS/dsh-rsi/actions/workflows/check.yml"><img src="https://github.com/YUEYUEXYS/dsh-rsi/actions/workflows/check.yml/badge.svg" alt="check"></a>
-  <a href="https://github.com/YUEYUEXYS/dsh-rsi/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="MIT"></a>
-</p>
-
 DeepSeek Harness 插件，不改模型权重。每次进化生成候选策略，在固定评测上打分，只有分数严格高于同一路线当前最优的候选才会晋升。设置页提供当前路线的三目标前沿、策略详情、代际曲线、用户模型、回滚和 genome 导出。仓库：<https://github.com/YUEYUEXYS/dsh-rsi>。
 
 当前版本 `0.1.0`，包名 `dsh-rsi`，许可证 MIT。
